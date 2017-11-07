@@ -1,7 +1,6 @@
 # mobilHybridProject
 
-Ce projet mobile permet de prendre des photos et des les envoyer sur le serveur firebase et également de regarder les photos prises avec les détails dans une liste
+Ce projet mobile permet de prendre des photos et de les envoyer sur un serveur firebase et également de regarder les photos prises avec détails à travers une liste
 
-
-Ce projet était un vrai défit en soit car je ne connaissais n'y react native n'y firebase
+Ce projet fut un vrai défit car je ne connaissais ni react native ni firebase
 De plus j'ai eu énormément de problème avec la génération de l'apk 
